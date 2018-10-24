@@ -2,7 +2,7 @@ body {
 	font-family: arial;
 	width: 80%;
 	margin: 0 auto;
-	background: pink;
+	background: grey;
 	border: 5px solid black;
 	box-shadow: 5px 5px 5px blue;
 }
