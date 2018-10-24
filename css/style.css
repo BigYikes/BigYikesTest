@@ -1,8 +1,9 @@
 body {
-	font-family: arial; 
+	font-family: Comic Sans MS; 
 	width: 80%;
 	margin: 0 auto;
 	background-color: pink;
+
 	
 }
 
@@ -19,6 +20,10 @@ footer {
 }
 ul {
 	background-color: hotpink; 
+	width: 1000px;
+    border: 25px solid red;
+    padding: 25px;
+    margin: 25px;
 
 }
 
