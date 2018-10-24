@@ -1,5 +1,5 @@
 body {
-	font-family: arial;
+	font-family: Comic Sans MS;
 	width: 80%;
 	margin: 0 auto;
 	background: #dcdcdc;
@@ -13,9 +13,12 @@ header {
 }
 
 main {
-	background: #454545
+	background: #662244
 }
 
 footer {
 	background: yellow
+}
+* {
+	margin: 0px;
 }
