@@ -28,6 +28,7 @@ footer {
 img {
 	width: 450px;
 	height: 450px;
+	border: solid 3px red;
 }
 
 .image {
