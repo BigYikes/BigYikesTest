@@ -10,7 +10,8 @@ body {
 header {
 	margin: 20px;
 	padding-left: 20px;
-	background-color: #F50707 
+	background-color: #F50707;
+	font-size: 25px; 
 
 }
 footer {
