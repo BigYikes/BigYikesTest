@@ -1,0 +1,24 @@
+body {
+	font-family: arial;
+	width: 80%;
+	margin: 0 auto;
+	background: pink;
+	border: 5px solid black;
+	box-shadow: 5px 5px 5px blue;
+}
+.rotate {
+	transform: rotate(180deg);
+}
+
+header {
+	background: hotpink;
+}
+
+main {
+	background: teal;
+}
+
+footer {
+	background: #b5e6b5;
+	padding: 100px;
+}
