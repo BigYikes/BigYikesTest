@@ -17,7 +17,6 @@ header {
 
 main {
 	background: teal;
-	transform: rotate(10deg);
 }
 
 footer {
@@ -25,11 +24,13 @@ footer {
 	padding: 100px;
 }
 
-.CatRotate {
-	transform: rotate(180deg);
-}
 
 img {
 	width: 450px;
 	height: 450px;
+}
+
+.image {
+	width: 100px;
+	height: 100px;
 }
