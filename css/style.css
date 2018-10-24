@@ -3,8 +3,11 @@ body {
 	width: 80%;
 	margin: 0 auto;
 	background-color: pink;
+}
 
-	
+img {
+
+	size: 100px;
 }
 
 header {
