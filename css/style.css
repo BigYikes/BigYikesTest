@@ -2,7 +2,8 @@ body {
 	font-family: arial;
 	width: 80%;
 	margin: 0 auto;
-	background: grey;
+	background-image: url("C:/Users/andy3/OneDrive/Documenten/School_Documenten/periode_1/Software Verdieping/samenwerken_swv/images/BLELELE.gif");
+	background-color: #445412;
 	border: 5px solid black;
 	box-shadow: 5px 5px 5px blue;
 }
@@ -21,4 +22,13 @@ main {
 footer {
 	background: #b5e6b5;
 	padding: 100px;
+}
+
+.CatRotate {
+	transform: rotate(180deg);
+}
+
+img {
+	width: 450px;
+	height: 450px;
 }
