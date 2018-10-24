@@ -1,0 +1,21 @@
+body {
+	font-family: arial;
+	width: 80%;
+	margin: 0 auto;
+	background: #dcdcdc;
+	border: 5px solid black;
+}
+.rotate {
+	transform: rotate(180deg);
+}
+header {
+	background: #e45dec
+}
+
+main {
+	background: #454545
+}
+
+footer {
+	background: yellow
+}
